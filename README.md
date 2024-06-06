@@ -1,4 +1,4 @@
-# itcode_lesson_6
+# lesson_6
 1) models.Actor.objects.all()
 <QuerySet [<Actor: Смит Уилл>, <Actor: Депп Джонни>, <Actor: Круз Пенелопа>, <Actor: Альба Идрис>, <Actor: Добронравов Федор>, <Actor: Хабенский Константин>, <Actor: Джоли Анджелина>, <Actor: Йоханссон Скарлетт>, <Actor: Безруков Сергей>]>
 2) models.Movie.objects.all()
